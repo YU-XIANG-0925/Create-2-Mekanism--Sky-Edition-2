@@ -9290,9 +9290,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
     "criteria": {
-      "has_copper_block": "2025-12-04 16:18:44 +0800"
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-12-04 12:57:49 +0800"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-12-04 13:30:09 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-12-04 13:49:36 +0800"
     },
     "done": true
   },
@@ -9326,12 +9470,6 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-12-04 13:49:45 +0800"
@@ -9344,21 +9482,9 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-12-04 13:49:45 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
     },
     "done": true
   },
@@ -9374,69 +9500,9 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-12-04 13:49:45 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "compressium:recipes/building_blocks/copper_1": {
-    "criteria": {
-      "has_copper": "2025-12-04 16:18:44 +0800"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/materials/netherite_ingot_from_nuggets": {
-    "criteria": {
-      "has_item": "2025-12-04 14:50:15 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-12-04 20:05:45 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-12-04 16:18:44 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-12-04 13:49:36 +0800"
     },
     "done": true
   },
@@ -9452,45 +9518,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-12-04 16:18:44 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-12-04 16:18:44 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-12-04 13:49:45 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
     },
     "done": true
   },
@@ -9506,33 +9536,9 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_five_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-12-04 13:49:45 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-12-04 16:18:44 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
     },
     "done": true
   },
@@ -9545,12 +9551,6 @@
   "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-12-04 13:49:45 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-12-04 16:18:44 +0800"
     },
     "done": true
   },
@@ -9578,18 +9578,6 @@
     },
     "done": true
   },
-  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
-    "criteria": {
-      "has_shear": "2025-12-04 13:30:09 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-12-04 13:49:45 +0800"
@@ -9608,39 +9596,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/gadgets/frame/netherite": {
-    "criteria": {
-      "has_item": "2025-12-04 14:50:15 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-12-04 13:49:45 +0800"
-    },
-    "done": true
-  },
-  "create:compacting": {
-    "criteria": {
-      "0": "2025-12-04 15:48:05 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_five": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
     },
     "done": true
   },
@@ -9656,18 +9614,6 @@
     },
     "done": true
   },
-  "projectexpansion:cyan_fuel": {
-    "criteria": {
-      "cyan_fuel": "2025-12-04 17:04:49 +0800"
-    },
-    "done": true
-  },
-  "projectexpansion:cyan_matter": {
-    "criteria": {
-      "cyan_matter": "2025-12-04 17:04:44 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-12-04 13:49:45 +0800"
@@ -9680,21 +9626,9 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-12-04 13:49:45 +0800"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
     },
     "done": true
   },
@@ -9710,21 +9644,93 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_ten_inv": {
-    "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
-    },
-    "done": true
-  },
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-12-04 13:49:45 +0800"
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+  "tconstruct:recipes/misc/common/materials/netherite_ingot_from_nuggets": {
     "criteria": {
-      "has_ingredient": "2025-12-04 12:57:49 +0800"
+      "has_item": "2025-12-04 14:50:15 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/netherite": {
+    "criteria": {
+      "has_item": "2025-12-04 14:50:15 +0800"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-12-04 15:48:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-12-04 16:18:44 +0800"
+    },
+    "done": true
+  },
+  "compressium:recipes/building_blocks/copper_1": {
+    "criteria": {
+      "has_copper": "2025-12-04 16:18:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-12-04 16:18:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-12-04 16:18:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-12-04 16:18:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-12-04 16:18:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-12-04 16:18:44 +0800"
+    },
+    "done": true
+  },
+  "projectexpansion:cyan_matter": {
+    "criteria": {
+      "cyan_matter": "2025-12-04 17:04:44 +0800"
+    },
+    "done": true
+  },
+  "projectexpansion:cyan_fuel": {
+    "criteria": {
+      "cyan_fuel": "2025-12-04 17:04:49 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-12-04 20:05:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-12-05 05:25:33 +0800"
     },
     "done": true
   },
